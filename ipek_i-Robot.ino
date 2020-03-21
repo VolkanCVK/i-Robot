@@ -1,13 +1,12 @@
     ////////////////////////////////////////////////////////
-   //                İPEK YAĞMUR ÇEVİK                   //             
-  //                İpek LineBot v1.0                   //
+   //                İPEK YAĞMUR                         //             
+  //                İpek i-Robot v1.0                   //
  //                İpek Çizgi Takip Robotu             //
 ////////////////////////////////////////////////////////
 
-//                     İPEK YAĞMUR ÇEVİK
-//                    09.06.2009  ANKARA   
-//     PROJE: MAYIS 2019  " İPEK YAĞMUR & CEYDA NAZ & GÜLŞEN & VOLKAN ÇEVİK "
-//     ŞEHİT FİLİZ KOÇAK İLKOKULU 4-B SINIFI ÖĞRENCİSİ ŞEREFLİKOÇHİSAR/ANKARA
+//                  İPEK YAĞMUR 
+//               09.06.2009  ANKARA   
+//               PROJE: MAYIS 2019  
 
 //Kütüphane Eklentisi
 #include <AFMotor.h>
